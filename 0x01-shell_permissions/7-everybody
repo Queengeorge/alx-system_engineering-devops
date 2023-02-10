@@ -1,2 +1,2 @@
 #!/bin/bash
-cmoh ugo+x hello 
+chmod ugo+x hello 
